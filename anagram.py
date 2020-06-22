@@ -1,3 +1,6 @@
+# To check whether two strings are anagrams of each other or not
+
+
 from collections import Counter
 print("")
 first_string = input("Enter the main String: ")
