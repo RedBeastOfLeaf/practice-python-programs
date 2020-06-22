@@ -1,3 +1,5 @@
+# To print all the prime numbers in a provided range
+
 lower = int(input("Enter the start number: "))
 upper = int(input("Enter the last number: "))
 
