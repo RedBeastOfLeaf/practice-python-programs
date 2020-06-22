@@ -2,9 +2,9 @@
 # The file should be in the same folder or directory
 # enter the file name with extension
 
-fname = input("Enter file name: ")
+file_name = input("Enter file name with it's extension: ")
 num_words = 0
-with open(fname, 'r') as f:
+with open(file_name, 'r') as f:
     for line in f:
         words = line.split()
         num_words += len(words)
