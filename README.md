@@ -1,1 +1,1 @@
-# python-practiced-programs
+# PRACTICE PYTHON PROGRAMMES
