@@ -1,3 +1,6 @@
+# This program prints fobonacci sequence , the code uses the recursion technique
+
+
 def recur_fibonacci(n):
     """Recursive function to print fibonnaci series"""
     if n <= 1:
