@@ -1,3 +1,6 @@
+# This program finds the root of the quadratic equation
+
+
 import cmath
 print("First transform your equation and give values of a,b,c respectively in order")
 a = float(input("\nEnter the value of a: "))
